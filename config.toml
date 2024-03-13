@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "Integra"
 author = "Andy Li"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+copyright = "Andy Li"
+title = "Integra"
 
 timeZone = 'Europe/London'
 
